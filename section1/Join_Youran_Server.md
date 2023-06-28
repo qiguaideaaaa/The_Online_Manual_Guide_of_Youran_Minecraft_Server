@@ -28,8 +28,8 @@
 
 服务器官网如下：
 
-- [https://mc.ireading.store/](https://mc.ireading.store/)
-- [http://minecraft.ireading.store/](http://minecraft.ireading.store/) （备用）
+- [https://www.youranserver.top/](https://www.youranserver.top/)
+- [http://server.youranserver.top/](http://server.youranserver.top/) （备用）
 
 **下载好客户端压缩包后，不要解压！**因为我们服务器的客户端是使用HMCL启动器制作的_服务器自动更新整合包_，需要使用HMCL启动器安装才能使用。
 

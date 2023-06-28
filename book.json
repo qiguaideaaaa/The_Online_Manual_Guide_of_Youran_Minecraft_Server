@@ -1,7 +1,7 @@
 {
     "title": "悠然MC服务器网页手册",
     "author": "qiguaideaaaa",
-    "description": "悠然MC服务器(minecraft.ireading.store)的网页游玩手册",
+    "description": "悠然MC服务器(www.youranserver.top)的网页游玩手册",
     "keywords": "悠然MC服务器网页手册,悠然服务器,悠然MC服务器",
     "introduction": {
       "path": "README.md",
@@ -42,9 +42,9 @@
       "issues": false,
       "contribute": false,
       "sidebar": {
-        "服务器官网": "https://mc.ireading.store/",
+        "服务器官网": "https://www.youranserver.top/",
         "服务器MC百科页面": "https://play.mcmod.cn/sv20185890.html",
-        "网页地图": "http://minecraft.ireading.store:8123/",
+        "网页地图": "http://server.youranserver.top/map",
         "废弃的网页手册": "https://www.yuque.com/youranserver/book"
       },
       "gitbook": false,

@@ -5,9 +5,9 @@
 
 服务器官网：
 
-[https://mc.ireading.store/](https://mc.ireading.store/)
+[https://www.youranserver.top/](https://www.youranserver.top/)
 
-[http://minecraft.ireading.store/](http://minecraft.ireading.store/) （备用）
+[http://server.youranserver.top/](http://server.youranserver.top/) （备用）
 
 服务器MC百科找服玩页面：
 
