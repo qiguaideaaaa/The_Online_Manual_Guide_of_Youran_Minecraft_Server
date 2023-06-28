@@ -7,7 +7,7 @@
 
 [https://www.youranserver.top/](https://www.youranserver.top/)
 
-[http://server.youranserver.top/](http://server.youranserver.top/) （备用）
+[http://mirror.youranserver.top/](http://mirror.youranserver.top/) （备用）
 
 服务器MC百科找服玩页面：
 

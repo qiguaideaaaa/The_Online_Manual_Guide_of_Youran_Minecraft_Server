@@ -6,7 +6,7 @@
 
 网页地图的网址如下：
 
-- [http://server.youranserver.top/map](http://server.youranserver.top/map)
+- [http://map.youranserver.top](http://map.youranserver.top)
 
 由于我们服务器是在新加坡，国内可能会有些不稳定，加载会较慢，敬请谅解。
 
